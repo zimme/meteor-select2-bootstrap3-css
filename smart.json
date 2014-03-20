@@ -3,7 +3,7 @@
   "description": "CSS to make Select2 fit in with Bootstrap 3",
   "homepage": "https://github.com/esperadomedia/meteor-select2-bootstrap3",
   "author": "simon@esperado.se",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/esperadomedia/meteor-select2-bootstrap3",
   "packages": {}
 }
