@@ -1,0 +1,4 @@
+[submodule "select2-bootstrap-css"]
+	path = select2-bootstrap-css
+	url = https://github.com/t0m/select2-bootstrap-css.git
+	branch = bootstrap3
