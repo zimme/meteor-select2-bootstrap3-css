@@ -1,7 +1,5 @@
 Package.describe({
   summary: 'CSS to make Select2 fit in with Bootstrap 3',
-  name: 'esperadomedia:select2-bootstrap3-css',
-  git: 'https://github.com/esperadomedia/meteor-select2-bootstrap3-css.git',
   version: '0.0.2'
 });
 
