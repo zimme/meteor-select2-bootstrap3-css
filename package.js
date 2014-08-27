@@ -5,8 +5,8 @@ Package.describe({
   version: '0.0.4'
 });
 
-Package.on_use(function (api, where) {
-  api.versionsFrom('METEOR@0.9.0');
+Package.onUse(function (api, where) {
+  api.versionsFrom('0.9.0');
 
-  api.add_files('select2-bootstrap-css/select2-bootstrap.css', 'client');
+  api.addFiles('select2-bootstrap-css/select2-bootstrap.css', 'client');
 });
