@@ -5,8 +5,9 @@ Package.describe({
   version: '0.0.5'
 });
 
-Package.onUse(function (api, where) {
+Package.onUse(function (api) {
   api.versionsFrom('0.9.0');
-
+  api.use('natestrauser:select2@3.4.6', 'client');
+  api.use('mizzao:bootstrap-3@3.2.0', 'client');
   api.addFiles('select2-bootstrap-css/select2-bootstrap.css', 'client');
 });
