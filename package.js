@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.versionsFrom('0.9.0');
+  api.versionsFrom('0.9.3');
 
   api.use([
     'mizzao:bootstrap-3@3.2.0',
