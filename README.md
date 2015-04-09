@@ -1,4 +1,4 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/zimme/meteor-select2-bootstrap3-css)
+[![Gitter](https://img.shields.io/badge/gitter-join_chat-brightgreen.svg)](https://gitter.im/zimme/meteor-select2-bootstrap3-css)
 [![Code Climate](https://img.shields.io/codeclimate/github/zimme/meteor-select2-bootstrap3-css.svg)](https://codeclimate.com/github/zimme/meteor-select2-bootstrap3-css)
 
 # Select2-bootstrap3-css
