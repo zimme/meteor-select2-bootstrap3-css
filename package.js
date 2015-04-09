@@ -11,7 +11,9 @@ Package.onUse(function (api) {
   api.use([
     'mizzao:bootstrap-3@3.2.0',
     'natestrauser:select2@3.4.7',
-    'simison:bootstrap3-less@0.3.0'
+    'nemo64:bootstrap@3.3.4_1',
+    'simison:bootstrap3-less@0.3.0',
+    'twbs:bootstrap@3.3.4'
   ], 'client', {weak: true});
 
   api.addFiles('select2-bootstrap-css/select2-bootstrap.css', 'client');
